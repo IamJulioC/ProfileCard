@@ -54,9 +54,13 @@ hr{
     text-align: center;
 }
 
-profile-numbers .info .counter, 
+.profile-numbers .info .counter, 
 .card .profile-info p{
     font-weight: 700;
+}
+
+.info{
+    text-transform: uppercase;
 }
 
 .card .profile-info .age,
