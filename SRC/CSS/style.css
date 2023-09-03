@@ -42,6 +42,8 @@ hr{
 
 .card .profile-info img{
     border-radius: 50%;
+    border: none;
+    outline: none;
     margin-top: 20px;
 }
 
@@ -60,7 +62,7 @@ hr{
 }
 
 .info{
-    text-transform: uppercase;
+    text-transform: capitalize;
 }
 
 .card .profile-info .age,
