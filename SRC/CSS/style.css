@@ -19,12 +19,12 @@ hr{
 }
 
 .card{
+    background-color: var(--bgCard-color);
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
     gap: 25px;
-    background-color: #fff;
     border-radius: 10px;
     margin: 20px;
     width: 330px;
@@ -38,6 +38,10 @@ hr{
     align-items: center;
     gap: 10px;
     height: 100%;
+}
+
+.card .profile-info .people{
+    color: var(--text-color);
 }
 
 .card .profile-info img{

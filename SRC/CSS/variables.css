@@ -1,5 +1,6 @@
 :root{
-    --background-color: hsl(144, 93%, 77%);
-    --text-color: hsl(227, 10%, 46%);
-    --card-color: hsl(0, 0%, 59%);
+    --background-color: hsl(232, 99%, 45%);
+    --bgCard-color:hsl(52, 100%, 50%);
+    --text-color: hsl(0, 0%, 100%);
+    --card-color: hsl(223, 30%, 95%);
 }
